@@ -1,0 +1,209 @@
+.logo-img img
+{
+    height: 60px;
+    width: 200px;
+    margin-left: 30px;
+}
+.Sign-In
+{
+    background-color: red;
+    height: 40px;
+    width: 90px;
+    border-radius: 5%;
+    color: white;
+    margin-right: 20px;
+    font-size: 15px;
+}
+.lang
+{
+    height: 40px;
+    width: 100px;
+    border-radius: 5%;
+    margin-left: 1000px;
+    text-align: center;
+}
+
+.header
+{
+    display: flex;
+    justify-content: space-between;
+}
+.bg-img img
+{
+  width: 100%;
+}
+.nav
+{
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 40px;
+}
+.text h1
+{
+    color: white;
+    font-size: 50px;
+    font-family: sans-serif;
+    padding-top: 120px;
+}
+.text a
+{
+    color: white;
+    font-size: 25px;
+    text-align: center; 
+    font-family: sans-serif;
+}
+.line
+{
+    height: 8px;
+    background-color: gray;
+}
+.nav-bar h1
+{
+    font-size: 50px;
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+    background-color: black;
+    top: -100px;
+}
+.nav-bar
+{
+    background-color: black;
+    padding:300px;
+    padding-top: 2px;
+}
+.text1
+{
+    font-size: 30px;
+    color: white;
+    font-family: sans-serif;
+    background-color: rgba(128, 128, 128, 0.445);
+    height: 50px;
+    padding: 25px 32px 10px 25px;
+    cursor: pointer;
+}
+.text2
+{
+    font-size: 30px;
+    color: white;
+    font-family: sans-serif;
+    background-color: rgba(128, 128, 128, 0.445);
+    height: 50px;
+    padding: 25px 32px 10px 25px;
+    cursor: pointer;
+}
+.text3
+{
+    font-size: 30px;
+    color: white;
+    font-family: sans-serif;
+    background-color: rgba(128, 128, 128, 0.445);
+    height: 50px;
+    padding: 25px 32px 10px 25px;
+    cursor: pointer;
+}
+.text4
+{
+    font-size: 30px;
+    color: white;
+    font-family: sans-serif;
+    background-color: rgba(128, 128, 128, 0.445);
+    height: 50px;
+    padding: 25px 32px 10px 25px;
+    cursor: pointer;
+}
+.text5
+{
+    font-size: 30px;
+    color: white;
+    font-family: sans-serif;
+    background-color: rgba(128, 128, 128, 0.445);
+    height: 50px;
+    padding: 25px 32px 10px 25px;
+    cursor: pointer;
+}
+.text6
+{
+    font-size: 30px;
+    color: white;
+    font-family: sans-serif;
+    background-color: rgba(128, 128, 128, 0.445);
+    height: 50px;
+    padding: 25px 32px 10px 25px;
+    cursor: pointer;
+}
+.nav-bar a
+{
+  color: white;
+  font-size: 25px;
+}
+.text7 a
+{
+  padding-left: 100px;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+.red
+{
+   background-color: red;
+   height: 80px;
+   width: 300px;
+   border-radius: 3%;
+   color: white;
+   font-weight: 400;
+   font-size: 35px;
+}
+.searchbar
+{
+    display: flex;
+    justify-content: center;
+}
+.footer h3
+{
+    font-size: 15px;
+    color: grey;
+    background-color: black;
+}
+.list
+{
+    font-size: 15px;
+    color: gray;
+    background-color: black;
+    font-family: sans-serif;
+    line-height: 25px;
+   
+}
+.main-footer
+{
+  background-color: black;
+  height: 200px;
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+li
+{
+    list-style: none;
+}
+.qus
+{
+    font-size: 15px;
+    color: gray;
+    padding: 0px 0px 80px 100px;
+    margin-left:70px;
+  
+   
+}
+.language
+{
+    height: 50px;
+    width: 110px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 12px;
+    font-family: sans-serif;
+}
+

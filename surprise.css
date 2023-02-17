@@ -1,0 +1,509 @@
+.header
+{
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    margin: 10px 15px 10px 15px;
+    position: fixed;
+    top: 0%;
+ 
+}
+.list li
+{
+    list-style: none;
+}
+.list
+{
+    display: flex;
+    justify-content: space-evenly; 
+    width: 650px;
+    position: relative;
+    left: 650px;
+
+
+}
+.logo img
+{
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+.back img
+{
+    height: 900px;
+    width: 100%;
+}
+.heading
+{
+    font-size: 20px;
+    position: absolute;
+    top: 150px;
+    left: 360px;
+    font-family: sans-serif;
+    color: darkblue;
+}
+#heading 
+{
+    text-align: center;
+}
+.heading img
+{
+    padding-left: 250px;
+    border-radius: 10px;
+}
+#head img
+{
+    position: absolute;
+    left: 140px;
+    top: 150px;
+    border-radius: 10px;
+    height: 120px;
+    width: 200px;
+
+}
+.container
+{
+    font-size: 20px;
+    text-align: center;
+    color: blue;
+    margin-top: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.mob
+{
+    display: flex;
+    justify-content: space-between;
+    height: 600px;
+    width: 550px;
+    padding-left:150px;
+}
+.button-sep
+{
+    display: flex;
+    justify-content: space-between;
+}
+#browse
+{
+    margin-left: 270px;
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    box-shadow: 8px 10px 2px darkblue;
+    background-color: #0089ea;
+    color: white;
+    font-size: 15px;
+    border: none;
+   
+}
+#video
+{
+    margin-right: -25px;
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    box-shadow: 8px 10px 2px darkblue;
+    background-color: #0089ea;
+    color: white;
+    font-size: 15px;
+    border: none;
+   
+}
+#e-com
+{
+    margin-right: 220px;
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    box-shadow: 8px 10px 2px darkblue;
+    background-color: #0089ea;
+    color: white;
+    font-size: 15px;
+    border: none;
+}
+.logosur 
+{
+ padding-left: 100px;
+ position: relative;
+ bottom: -10px;
+
+}
+.tex
+{
+    text-align: center;
+    font-size: 35px;
+    color:blue;
+}
+.circle img
+{
+    width: 350px;
+    height: 350px;
+    position: relative;
+    bottom: 250px;
+    left: 1150px;
+}
+.new
+{
+    position: relative;
+    bottom: 450px;
+    left: 880px;
+    color: blue;
+    font-size: 15px;
+
+}
+.footer img
+{
+  position: relative;
+  bottom: 150px;
+  left: 170px;
+}
+.footer a
+{
+    position: relative;
+    bottom: 120px;
+    left: 30px;
+}
+.footer
+{
+    position: relative;
+    top: 0px;
+    font-size: 20px;
+}
+.footer-items
+{
+   
+    list-style: none;
+    position: relative;
+    bottom: 120px;
+    left: 30px;
+    background-color: #0089ea;
+}
+.footer-list
+{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+   position: relative;
+   bottom: 80px;
+}   
+.foot-call
+{
+    padding-left: 1050px;
+    position: relative;
+    bottom: 230px;
+   
+}
+.foot-up
+{
+    padding-left: 1050px;
+    position: relative;
+    bottom: 200px;
+}
+/*--END OF FIRST PAGE*/
+
+.bg-color
+{
+    background-color: #0089ea;
+}
+.ad-text
+{
+    position: absolute;
+    top: 150px;
+   text-align: center;
+   padding-left: 500px;
+   font-size: 20px;
+   color: white;
+   font-family: sans-serif;
+}
+.email, .web 
+{
+    width: 340px;
+    height: 30px;
+    border-radius: 20px;
+}
+.last, .name
+{
+    height: 30px;
+    border-radius: 20px;
+    width: 150px;
+}
+.Button
+{
+    width: 250px;
+    border-radius: 45px;
+    margin-left: 50px;
+    height: 70px;
+    color: #0089ea;
+    font-size: 20px;
+    font-weight: 600;
+    border:5px cornflowerblue;
+}
+.form
+{
+    position: absolute;
+    top: 100px;
+    padding-left: 500px;
+    
+}
+
+/*--------------------*/
+.one
+{
+    display: flex;
+    justify-content: space-between;
+    border: 0px;
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+}
+.two{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.three{
+    width: 500px;
+    margin-right: 40px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.three a{
+    text-decoration: none;
+    font-family: sans-serif;
+    color: rgb(54, 71, 163);
+}
+.four{
+    border: 0px;
+    height: 1300px;
+    margin-top: 100px;
+    background-color: rgba(0, 136, 255, 0.044);
+}
+.five{
+    font-size: 70px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+.six{
+    font-size: 20px;
+    font-weight: lighter;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 20px;
+}
+.seven button{
+    border: 0px;
+    height: 60px;
+    width: 200px;
+    border-radius: 50px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(11, 101, 245);
+}
+.seven{
+    padding-left: 650px;
+    padding-top: 20px;
+}
+.eight{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+.nine{
+    padding-top: 45px;
+}
+.ten{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 150px;
+}
+.eleven{
+    font-size: 20px;
+    font-weight: lighter;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.twelve{
+    padding-right: 5px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.thirteen{
+    border: solid 1px rgb(213, 211, 211);
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+    color: black;
+    font-family: sans-serif;
+    background-color: white;
+    box-shadow: 2px 2px 2px rgb(213, 211, 211);
+    margin-top: 20px;
+    margin-left: 600px;
+}
+.fourteen{
+    border: solid 1px  rgb(213, 211, 211);
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+    color: black;
+    font-family: sans-serif;
+    background-color: white;
+    box-shadow: 2px 2px 2px rgb(213, 211, 211);
+    margin-top: 20px;
+    margin-right: 600px;
+}
+.twenty button{
+    border: 0px;
+    height: 60px;
+    width: 200px;
+    border-radius: 50px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(11, 101, 245);
+}
+.twenty{
+    padding-top: 40px;
+}
+.fifteen{
+    border: 0px;
+    height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 100px;
+}
+.seventeen{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+.eighteen{
+    color: rgb(11, 101, 245);
+}
+.nineteen{
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    color: rgba(83, 83, 83, 0.771);
+    padding-top: 20px;
+}
+.sixteen{
+    margin-top: 80px;  
+}
+.twentyone{
+    margin-right: 100px;
+}
+.twentytwo{
+    margin-left: 100px;
+}
+.twentythree a{
+    text-decoration: none;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: rgb(11, 101, 245);
+}
+.twentythree{
+    margin-top: 30px;
+}
+.twentyfour{
+    border: 0px;
+    height: 200px;
+}
+.twentyfive{
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    margin-top: 100px;
+}
+.twentysix{
+    border: 0px;
+    height: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.twentyseven{
+    margin-top: 20px;
+    transition: all 2s;
+
+}
+.twentyseven :hover{
+    transform: scale(2.0);
+}
+.twentyeight{
+    border: 0px;
+    height: 400px;
+    background-color: rgba(0, 136, 255, 0.044);
+}
+.twentynine{
+    margin-left: 700px;
+}
+.thirty{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 20px;
+}
+.thirtyone{
+    font-size: 15px;
+    font-weight: lighter;
+    color: rgb(163, 161, 161);
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 20px;
+}
+.thirtytwo{
+    border: 0px;
+    height: 300px;
+    background-color: rgb(11, 112, 245);
+    margin-top: -100px;
+}
+.thirtythree{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 80px;
+    color: white;
+}
+.thirtyfour{
+    font-size: 22px;
+    font-weight: lighter;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+
+.thirtyfive{
+    border: 0px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 100px;
+    padding-top: 50px;
+    color: rgb(90, 88, 88);
+}
+.thirtyseven ul{
+    width: 400px;
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: none;
+    list-style-type: none;
+}
+.thirtyseven a{
+    text-decoration: none;
+    color: rgb(90, 88, 88);
+}

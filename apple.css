@@ -1,0 +1,604 @@
+.logo img 
+{
+   height: 20px;
+   width:20px;
+}
+.search img
+{
+   height: 20px;
+   width:20px;
+   background-color: white;
+}
+.list
+{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgba(0, 0, 0, 0.797);
+    color: white;
+    padding: 30px;
+    position: relative;
+    top:-27px;
+    width: 100%;
+  
+
+}
+.headerr a
+{
+    background-color: rgba(128, 128, 128, 0.227);
+    color: black;
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    position: relative;
+    top: -45px;
+    width: 100%;
+}
+.nav img
+{
+   width: 100%;
+   height: 600px;
+  padding-left: 250px;
+}
+.nav
+{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.content
+{
+    padding-right: 300px;
+}
+.text1
+{
+    font-size: 50px;
+    font-family: sans-serif;
+    text-align: center;
+}
+.text2
+{
+    font-size: 30px;
+    font-family: sans-serif;
+    text-align: center;
+}
+.text3 a
+{
+    padding-left: 50px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+.text4 a 
+{
+    padding-left: 630px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+.image img
+{
+    height: 400px;
+    padding-left: 550px;
+}
+.contentpro
+{
+    background-color: black;
+}
+.contentpro img
+{
+    padding-left:420px ;
+}
+.text5
+{
+    font-size: 50px;
+    font-family: sans-serif;
+    color: white;
+    padding-left: 600px;
+    padding-top: 30px;
+}
+.text6
+{
+    font-size: 30px;
+    font-family: sans-serif;
+    color: white;
+    padding-left: 670px;
+}
+.text7
+{
+    position: relative;
+    bottom: 600px;
+    color: white;
+    font-family: sans-serif;
+    left: 250px;
+    font-size: 50px;
+
+}
+.pro img
+{
+    height: 600px;
+}
+.text8
+{
+    position: relative;
+    bottom: 620px;
+    color: white;
+    font-family: sans-serif;
+    left: 240px;
+    font-size: 28px;
+    line-height: 10px;
+   
+}
+.text9 a
+{
+    position: relative;
+    bottom: 610px;
+    color: blue;
+    font-family: sans-serif;
+    left: 250px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.tvled img
+{
+   position: absolute;
+   left:750px;
+   top: 2090px;
+   width: 800px;
+}
+.appletv img
+{
+  height: 60px;
+  width: 200px;
+  position: absolute;
+  top:2130px;
+  left:1050px ;
+}
+.text10
+{
+    position: absolute;
+    top:2190px;
+    color: black;
+    font-family: serif;
+    left: 1050px;
+    font-size: 22px;
+    line-height: 8px;
+    text-align: center;
+}
+.text12
+{
+    position: absolute;
+    top:2250px;
+    color: black;
+    font-family: serif;
+    left: 1050px;
+    font-size: 22px;
+    line-height: 8px;
+    text-align: center;
+}
+.text12 a
+{
+    text-decoration: none;
+}
+.watchorange img
+{
+  height: 365px;
+}
+.orange img
+{
+    height: 60px;
+    width: 140px;
+    position: relative;
+    bottom: 500px;
+    left: 290px;
+}
+.text13
+{
+    position: relative;
+    bottom: 500px;
+    color: black;
+    font-family: sans-serif;
+    left: 280px;
+    font-size: 22px;
+    line-height: 10px;
+}
+.text14
+{
+    position: relative;
+    bottom: 500px;
+    color: blue;
+    font-family: sans-serif;
+    left: 270px;
+    font-size: 20px;
+    
+}
+.text14 a
+{
+    text-decoration: none;
+}
+.bluewatch img
+{
+    height: 80px;
+    position: absolute;
+    left:1050px;
+    top: 2720px;
+    width: 170px;
+}
+.blue img
+{
+   position: absolute;
+   left:750px;
+   top: 2690px;
+   height: 600px;
+}
+.text15
+{
+    position: absolute;
+    top:2800px;
+    color: white;
+    font-family: serif;
+    left: 1050px;
+    font-size: 22px;
+    line-height: 8px;
+    text-align: center;
+}
+.text16
+{
+    position: absolute;
+    top:2840px;
+    color: black;
+    font-family: serif;
+    left: 1050px;
+    font-size: 22px;
+    line-height: 8px;
+    text-align: center;
+}
+.text16 a
+{
+    text-decoration: none;
+}
+.book img
+{
+  height: 550px;
+}
+.text17
+{
+    position: relative;
+    bottom: 500px;
+    color: black;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 35px;
+    line-height: 10px;
+}
+.text18
+{
+    position: relative;
+    bottom: 500px;
+    color: black;
+    font-family: sans-serif;
+    font-size: 22px;
+    line-height: 12px;
+    left: 280px;
+}
+.text19
+{
+    position: relative;
+    bottom: 500px;
+    color: black;
+    font-family: sans-serif;
+    left: 280px;
+    font-size: 18px;
+    line-height: 18px;
+}
+.macbook
+{
+   position: absolute;
+   top: 3238px;
+   height: 600px;
+}
+.text19 a
+{
+    text-decoration: none;
+}
+.propods img
+{
+   position: absolute;
+   left:750px;
+   top: 3240px;
+   height: 550px;
+   width: 800px;
+}
+.text20
+{
+    position: absolute;
+    top:3250px;
+    color: white;
+    font-family: serif;
+    left: 1050px;
+    font-size: 45px;
+    text-align: center;
+}
+.text21
+{
+    position: absolute;
+    top:3320px;
+    color: white;
+    font-family: serif;
+    left: 1040px;
+    font-size: 22px;
+    text-align: center;
+}
+.text22
+{
+    position: absolute;
+    top:3360px;
+    color: rgb(228, 23, 23);
+    font-family: serif;
+    left: 1080px;
+    font-size: 22px;
+    text-align: center;
+}
+.text22 a
+{
+    text-decoration: none;
+}
+.para
+{
+    background-color: rgba(128, 128, 128, 0.186);
+    padding:25px 15px 20px 150px;
+}
+.sop a
+{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+.line
+{
+    height: 0.5px;
+    background-color: grey;
+}
+.footer
+{
+    list-style: none;
+    color: grey;
+    line-height: 25px;
+}
+.main-footer
+{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgba(128, 128, 128, 0.186);
+    width: 100%;
+    padding: 10px 0px 10px 5px;
+}
+.head
+{
+    color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.end
+{
+    background-color: rgba(128, 128, 128, 0.21);
+    padding-left: 130px;
+}
+.banner img
+{
+  width: 100%;
+  height: 80%;
+  position: absolute;
+  top: 77px;
+}
+.apple-support
+{
+    position: absolute;
+    top: 190px;
+    left: 630px;
+    color: white;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+.contents img
+{
+    padding-top: 650px;
+    margin-left: 140px;
+    padding-bottom: 100px;
+    height: 60px;
+}
+.boxes
+{
+    display:flex;
+    justify-content: space-evenly;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.size img
+{
+    height: 50px;
+    width: 50px;
+}
+.size a
+{
+   text-decoration: none;
+   position: relative;
+   top: 30px;
+   padding-right: 150px;
+}
+.topics
+{
+    font-size: 30px;
+    font-family: sans-serif;
+    text-align: center;
+}
+textarea
+{
+    margin-bottom: 50px;
+}
+.main-section
+{
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.main-section img
+{
+    padding: 10px 5px 10px 5px;
+    height: 200px;
+}
+.section h1
+{
+    font-size: 35px;
+    font-family: sans-serif;
+
+}
+.section h2
+{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.section h3 a
+{
+    font-size: 20px;
+    font-family: sans-serif;
+    text-decoration: none;
+} 
+.img-box img
+{
+    width: 100%;
+}
+.img-box h1
+{
+  color: white;
+  font-size: 45px;
+  position: relative;
+  bottom: 270px;
+  font-family: sans-serif;
+  left: 330px;
+}
+.img-box h3
+{
+  color: rgba(226, 22, 22, 0);
+  font-size: 18px;
+  position: relative;
+  bottom: 280px;
+  font-family: sans-serif;
+  left: 330px;
+}
+.img-box a
+{
+  font-size: 20px;
+  position: relative;
+  bottom: 320px;
+  font-family: sans-serif;
+  left: 330px;
+  text-decoration: none;
+  color: lightseagreen;
+}
+a:hover 
+{
+    text-decoration: underline;
+}
+.section-two img
+{
+   height: 250px;
+   width: 400px;
+}
+.textar h1
+{
+    font-size: 25px;
+    font-family: sans-serif;
+    
+}
+.textar
+{
+    display: flex;
+    justify-content: center;
+}
+.op h1
+{
+    font-size: 40px;
+}
+.op h2
+{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.op a
+{
+    text-decoration: none;
+    font-size: 24px;
+}
+a:hover
+{
+    text-decoration: underline;
+}
+.section-two
+{
+    padding-bottom: 70px;
+}
+.par  
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+par h2,a
+{
+    text-decoration: none;
+}
+a:hover 
+{
+    text-decoration: underline;
+}
+.end-part
+{
+    font-size: 18px;
+    padding-left: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footerrr h4
+{ 
+   text-align: center;
+   font-weight: 100;
+}
+.footerrr img
+{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    left: 700px;
+    
+}
+.footer:hover
+{
+    text-decoration: underline;
+}
+.footerrr
+{
+    background-color: rgba(128, 128, 128, 0.196);
+}
+.top 
+{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(128, 128, 128, 0);
+    padding: 20px 20px 20px 20px;
+    width: 100%;
+    top: -50px;
+    position: relative;
+    box-shadow: 5px 5px 10px rgba(128, 128, 128, 0.301);
+    
+}
+.safe
+{
+    left: 500px;
+    position: relative;
+    top: -60px;
+    background-color: rgba(128, 128, 128, 0.186);
+}
